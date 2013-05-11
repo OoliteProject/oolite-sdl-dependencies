@@ -5,11 +5,3 @@ ehthumbs.db
 # Mac OS X cruft
 .DS_Store
 Icon?
-
-
-# These are created by the Mac build process. Rearranging things so this
-# doesn't happen would be a good idea.
-libogg
-libpng
-libvorbis
-mozilla
